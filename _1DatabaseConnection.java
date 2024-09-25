@@ -1,4 +1,4 @@
-package PayEase;
+package PayEase;//Database Connection class
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,5 +1,5 @@
 package PayEase;
-
+//Main class
 import java.util.Scanner;
 
 public class _8Payease {
